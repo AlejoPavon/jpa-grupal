@@ -23,7 +23,7 @@
                       value="root"/>
 
             <property name="javax.persistence.jdbc.password"
-                      value="alejo123"/>
+                      value="password"/>
 
             <!-- Hibernate -->
             <property name="hibernate.show_sql"
