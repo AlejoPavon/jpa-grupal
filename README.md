@@ -1,7 +1,7 @@
 # JPA + Hibernate - Sistema de Facturación
 
 <p align="center">
-  <img src="./images/logo-utn.png" alt="UTN" width="180">
+  <img src="./images/logo-utn.jpg" alt="UTN" width="180">
 </p>
 
 ![Java](https://img.shields.io/badge/Java-26-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
